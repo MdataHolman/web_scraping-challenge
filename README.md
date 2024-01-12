@@ -10,6 +10,7 @@ What You're Creating
 
 This new assignment consists of two technical products. You will submit the following deliverables:
 
-Deliverable 1: Scrape titles and preview text from Mars news articles.
+Deliverable 1: Scrape titles and preview text from Mars news articles. 
+https://github.com/MdataHolman/web_scraping-challenge/blob/ba424ec1e1af9f8dc3797a8a49fce684873625aa/Mars%20Planet%20Science/part_1_mars_news.ipynb
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
